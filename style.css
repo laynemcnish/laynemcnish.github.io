@@ -24,6 +24,7 @@ svg {
 a {
   font-family: "MLP";
   color: #fb9ec4;
+  text-decoration: none;
 }
 
 .center {
@@ -37,5 +38,5 @@ a {
 }
 
 element {
-    cursor: url("cursor.png"), auto;
+    cursor: url("./cursor.png"), auto;
 }
