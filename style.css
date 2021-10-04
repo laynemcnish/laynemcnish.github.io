@@ -1,0 +1,41 @@
+body {
+  background-color: #8865ff;
+}
+@font-face {
+  font-family: "MLP";
+  src: url("MLP.woff2") format("woff2"), url("MLP.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1 {
+  color: #ffc7ca;
+  font-family: "MLP";
+  font-size: 55px;
+  /* font-size: 48vw; */
+  /* margin: 20px; */
+}
+
+svg {
+  width: 100%;
+}
+
+a {
+  font-family: "MLP";
+  color: #fb9ec4;
+}
+
+.center {
+  margin: 0;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+element {
+    cursor: url("cursor.png"), auto;
+}
