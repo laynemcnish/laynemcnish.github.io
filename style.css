@@ -12,8 +12,7 @@ body {
 h1 {
   color: #ffc7ca;
   font-family: "MLP";
-  font-size: 55px;
-  /* font-size: 48vw; */
+  font-size: 15vw;
   /* margin: 20px; */
 }
 
@@ -25,6 +24,7 @@ a {
   font-family: "MLP";
   color: #fb9ec4;
   text-decoration: none;
+  font-size: 4vw;
 }
 
 .center {
